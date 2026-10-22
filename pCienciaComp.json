@@ -1,0 +1,74 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "De acordo com o Sistema Internacional de Unidades, quantos bytes há em um quilobyte de RAM?",
+    "correct_answer": "1000",
+    "incorrect_answers": ["512", "1024", "500"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "No design web, o que significa a sigla CSS?",
+    "correct_answer": "Folha de Estilo em Cascata",
+    "incorrect_answers": ["Counter Strike: Source", "Folha de Estilo Corretiva", "Folha de Estilo de Computador"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Na linguagem de programação Java, qual destas palavras-chave você colocaria em uma variável para garantir que ela não seja modificada?",
+    "correct_answer": "Final",
+    "incorrect_answers": ["Static", "Private", "Public"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "HTML é que tipo de linguagem?",
+    "correct_answer": "Linguagem de Marcação",
+    "incorrect_answers": ["Linguagem de Macro", "Linguagem de Programação", "Linguagem de Script"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Em um teclado americano QWERTY padrão, qual símbolo será digitado se você segurar a tecla shift e pressionar 1?",
+    "correct_answer": "Ponto de exclamação",
+    "incorrect_answers": ["Cifrão", "Sinal de porcentagem", "Asterisco"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "O que significa a sigla CPU?",
+    "correct_answer": "Unidade Central de Processamento",
+    "incorrect_answers": ["Unidade de Processo Central", "Unidade Pessoal do Computador", "Unidade de Processador Central"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "O sistema operacional Windows foi desenvolvido por qual empresa?",
+    "correct_answer": "Microsoft",
+    "incorrect_answers": ["Apple", "Nokia", "IBM"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Qual é o formato de imagem mais usado para logotipos no banco de dados da Wikimedia?",
+    "correct_answer": ".svg",
+    "incorrect_answers": [".png", ".jpeg", ".gif"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "O que significa a sigla SSD?",
+    "correct_answer": "Unidade de Estado Sólido",
+    "incorrect_answers": ["Disco de Fonte de Solução", "Disco de Estado Sólido", "Unidade de Solução de Fonte"]
+  }
+]
