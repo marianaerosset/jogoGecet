@@ -71,4 +71,60 @@
     "correct_answer": "Unidade de Estado Sólido",
     "incorrect_answers": ["Disco de Fonte de Solução", "Disco de Estado Sólido", "Unidade de Solução de Fonte"]
   }
+    {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "O que faz o botão Prt Sc?",
+    "correct_answer": "Captura o que está na tela e copia para a área de transferência",
+    "incorrect_answers": ["Nada", "Salva um arquivo .png do que está na tela na pasta de capturas de tela em fotos", "Fecha todas as janelas"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Quantos bits há normalmente em um único byte?",
+    "correct_answer": "Oito bits",
+    "incorrect_answers": ["Seis bits", "Doze bits", "Quinze bits"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Quantos quilobytes há em um gigabyte (em decimal)?",
+    "correct_answer": "1000000",
+    "incorrect_answers": ["1024", "1000", "1048576"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Que tipo de memória é usada na memória cache?",
+    "correct_answer": "SRAM",
+    "incorrect_answers": ["DRAM", "ROM", "Flash"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "O que significa a sigla USB?",
+    "correct_answer": "Universal Serial Bus",
+    "incorrect_answers": ["Universal Simtex Blot", "Unified Signal Bus", "Unityped Semtex Backer"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Em qualquer linguagem de programação, qual é a forma mais comum de percorrer um array?",
+    "correct_answer": "Laços 'for'",
+    "incorrect_answers": ["Instruções 'if'", "Laços 'do-while'", "Laços 'while'"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Na computação, quantos bits há em um nibble?",
+    "correct_answer": "4",
+    "incorrect_answers": ["16", "32", "2"]
+  }
 ]
