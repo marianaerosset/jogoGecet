@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "type": "multiple",
     "difficulty": "easy",
     "category": "Ciência: Computação",
@@ -8,6 +9,7 @@
     "incorrect_answers": ["512", "1024", "500"]
   },
   {
+    "id": 2,
     "type": "multiple",
     "difficulty": "easy",
     "category": "Ciência: Computação",
@@ -16,6 +18,7 @@
     "incorrect_answers": ["Counter Strike: Source", "Folha de Estilo Corretiva", "Folha de Estilo de Computador"]
   },
   {
+    "id": 3,
     "type": "multiple",
     "difficulty": "easy",
     "category": "Ciência: Computação",
@@ -24,6 +27,7 @@
     "incorrect_answers": ["Static", "Private", "Public"]
   },
   {
+    "id": 4,
     "type": "multiple",
     "difficulty": "easy",
     "category": "Ciência: Computação",
@@ -32,6 +36,7 @@
     "incorrect_answers": ["Linguagem de Macro", "Linguagem de Programação", "Linguagem de Script"]
   },
   {
+    "id": 5,
     "type": "multiple",
     "difficulty": "easy",
     "category": "Ciência: Computação",
@@ -40,6 +45,7 @@
     "incorrect_answers": ["Cifrão", "Sinal de porcentagem", "Asterisco"]
   },
   {
+    "id": 6,
     "type": "multiple",
     "difficulty": "easy",
     "category": "Ciência: Computação",
@@ -48,6 +54,7 @@
     "incorrect_answers": ["Unidade de Processo Central", "Unidade Pessoal do Computador", "Unidade de Processador Central"]
   },
   {
+    "id": 7,
     "type": "multiple",
     "difficulty": "easy",
     "category": "Ciência: Computação",
@@ -56,6 +63,7 @@
     "incorrect_answers": ["Apple", "Nokia", "IBM"]
   },
   {
+    "id": 8,
     "type": "multiple",
     "difficulty": "easy",
     "category": "Ciência: Computação",
@@ -64,14 +72,16 @@
     "incorrect_answers": [".png", ".jpeg", ".gif"]
   },
   {
+    "id": 9,
     "type": "multiple",
     "difficulty": "easy",
     "category": "Ciência: Computação",
     "question": "O que significa a sigla SSD?",
     "correct_answer": "Unidade de Estado Sólido",
     "incorrect_answers": ["Disco de Fonte de Solução", "Disco de Estado Sólido", "Unidade de Solução de Fonte"]
-  }
-    {
+  },
+  {
+    "id": 10,
     "type": "multiple",
     "difficulty": "easy",
     "category": "Ciência: Computação",
@@ -80,6 +90,7 @@
     "incorrect_answers": ["Nada", "Salva um arquivo .png do que está na tela na pasta de capturas de tela em fotos", "Fecha todas as janelas"]
   },
   {
+    "id": 11,
     "type": "multiple",
     "difficulty": "easy",
     "category": "Ciência: Computação",
@@ -88,6 +99,7 @@
     "incorrect_answers": ["Seis bits", "Doze bits", "Quinze bits"]
   },
   {
+    "id": 12,
     "type": "multiple",
     "difficulty": "easy",
     "category": "Ciência: Computação",
@@ -96,6 +108,7 @@
     "incorrect_answers": ["1024", "1000", "1048576"]
   },
   {
+    "id": 13,
     "type": "multiple",
     "difficulty": "easy",
     "category": "Ciência: Computação",
@@ -104,6 +117,7 @@
     "incorrect_answers": ["DRAM", "ROM", "Flash"]
   },
   {
+    "id": 14,
     "type": "multiple",
     "difficulty": "easy",
     "category": "Ciência: Computação",
@@ -112,6 +126,7 @@
     "incorrect_answers": ["Universal Simtex Blot", "Unified Signal Bus", "Unityped Semtex Backer"]
   },
   {
+    "id": 15,
     "type": "multiple",
     "difficulty": "easy",
     "category": "Ciência: Computação",
@@ -120,11 +135,93 @@
     "incorrect_answers": ["Instruções 'if'", "Laços 'do-while'", "Laços 'while'"]
   },
   {
+    "id": 16,
     "type": "multiple",
     "difficulty": "easy",
     "category": "Ciência: Computação",
     "question": "Na computação, quantos bits há em um nibble?",
     "correct_answer": "4",
     "incorrect_answers": ["16", "32", "2"]
+  },
+  {
+    "id": 17,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Qual dispositivo de hardware fornece a interface para que todos os outros dispositivos conectados se comuniquem?",
+    "correct_answer": "Placa-mãe",
+    "incorrect_answers": ["Unidade Central de Processamento", "Disco Rígido (HD)", "Memória de Acesso Aleatório"]
+  },
+  {
+    "id": 18,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "O sistema de numeração com base 16 é mais comumente chamado de:",
+    "correct_answer": "Hexadecimal",
+    "incorrect_answers": ["Binário", "Duodecimal", "Octal"]
+  },
+  {
+    "id": 19,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "O que significa GHz?",
+    "correct_answer": "Gigahertz",
+    "incorrect_answers": ["Gigahotz", "Gigahetz", "Gigahatz"]
+  },
+  {
+    "id": 20,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Qual empresa foi fundada em 1º de abril de 1976 por Steve Jobs, Steve Wozniak e Ronald Wayne?",
+    "correct_answer": "Apple",
+    "incorrect_answers": ["Microsoft", "Atari", "Commodore"]
+  },
+  {
+    "id": 21,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Se você programasse nesta linguagem, só poderia digitar 0s e 1s.",
+    "correct_answer": "Binário",
+    "incorrect_answers": ["JavaScript", "C++", "Python"]
+  },
+  {
+    "id": 22,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Este sistema operacional móvel tinha a maior participação de mercado em 2012.",
+    "correct_answer": "iOS",
+    "incorrect_answers": ["Android", "BlackBerry", "Symbian"]
+  },
+  {
+    "id": 23,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Qual é o atalho de teclado mais usado para a função 'Copiar' no sistema operacional Windows?",
+    "correct_answer": "Ctrl + C",
+    "incorrect_answers": ["Ctrl + X", "Alt + C", "Alt + X"]
+  },
+  {
+    "id": 24,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "O que significa a sigla de software JVM?",
+    "correct_answer": "Java Virtual Machine (Máquina Virtual Java)",
+    "incorrect_answers": ["Java Vendor Machine", "Java Visual Machine", "Just Virtual Machine"]
+  },
+  {
+    "id": 25,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Quando o Gmail foi lançado, quanto espaço de armazenamento ele oferecia para os seus e-mails?",
+    "correct_answer": "1GB",
+    "incorrect_answers": ["512MB", "5GB", "Ilimitado"]
   }
 ]
