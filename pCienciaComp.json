@@ -223,5 +223,41 @@
     "question": "Quando o Gmail foi lançado, quanto espaço de armazenamento ele oferecia para os seus e-mails?",
     "correct_answer": "1GB",
     "incorrect_answers": ["512MB", "5GB", "Ilimitado"]
+  },
+    {
+    "id": 25,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Quando o Gmail foi lançado, quanto espaço de armazenamento ele oferecia para os seus e-mails?",
+    "correct_answer": "1GB",
+    "incorrect_answers": ["512MB", "5GB", "Ilimitado"]
+  },
+  {
+    "id": 26,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Qual foi a maior invenção de Hedy Lamarr?",
+    "correct_answer": "Salto de frequência",
+    "incorrect_answers": ["O microprocessador", "A fibra óptica", "O mouse de computador"]
+  },
+  {
+    "id": 27,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Quem foi a primeira programadora da história?",
+    "correct_answer": "Ada Lovelace",
+    "incorrect_answers": ["Grace Hopper", "Hedy Lamarr", "Katherine Johnson"]
+  },
+  {
+    "id": 28,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Ciência: Computação",
+    "question": "Qual cientista da computação liderou a equipe de software da missão Apollo 11?",
+    "correct_answer": "Margaret Hamilton",
+    "incorrect_answers": ["Ada Lovelace", "Grace Hopper", "Dorothy Vaughan"]
   }
 ]
