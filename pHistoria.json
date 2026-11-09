@@ -1,4 +1,459 @@
 {
-    "1": "Em que ano o homem pisou na lua?",
-    "2": "Quem foi o primeiro presidente do Brasil?"
+  "response_code": 0,
+  "results": [
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Quais dos seguintes povos antigos NÃO eram classificados como helênicos (gregos)?",
+      "correct_answer": "Ilírios",
+      "incorrect_answers": ["Dórios", "Aqueus", "Jônios"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Qual desses marcos não está incluído nas originais 'Sete Maravilhas do Mundo Antigo'?",
+      "correct_answer": "Grande Muralha da China",
+      "incorrect_answers": ["Grande Pirâmide de Gizé", "Colosso de Rodes", "Jardins Suspensos da Babilônia"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "O RMS Titanic afundou durante sua viagem inaugural de Southampton, Inglaterra, para qual cidade americana?",
+      "correct_answer": "Nova York",
+      "incorrect_answers": ["Boston", "Filadélfia", "Washington"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Qual é amplamente considerada a civilização mais antiga conhecida pela humanidade?",
+      "correct_answer": "Suméria",
+      "incorrect_answers": ["Babilônia", "Assíria", "Fenícia"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Quem sucedeu Josef Stalin como líder da União Soviética?",
+      "correct_answer": "Nikita Khrushchev",
+      "incorrect_answers": ["Lavrentiy Beria", "Vyacheslav Molotov", "Georgy Malenkov"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Quem liderou a Revolução Comunista da Rússia?",
+      "correct_answer": "Vladimir Lenin",
+      "incorrect_answers": ["Joseph Stalin", "Vladimir Putin", "Mikhail Gorbachev"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Qual batalha foi a mais longa da Primeira Guerra Mundial, durando aproximadamente 303 dias?",
+      "correct_answer": "Batalha de Verdun",
+      "incorrect_answers": ["Batalha de Passchendaele", "Batalha de Amiens", "Batalha de Stalingrado"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Qual famoso comandante militar marchou um exército, que incluía elefantes de guerra, sobre os Alpes durante a Segunda Guerra Púnica?",
+      "correct_answer": "Aníbal",
+      "incorrect_answers": ["Germânico", "Alexandre o Grande", "Tibério"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Qual dos seguintes países não era uma potência do Eixo durante a Segunda Guerra Mundial?",
+      "correct_answer": "União Soviética",
+      "incorrect_answers": ["Itália", "Alemanha", "Japão"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Qual famosa líder mundial é famosa pelo ditado \"Que comam brioche\" (ou bolo), embora haja rumores de que ela nunca tenha dito isso?",
+      "correct_answer": "Maria Antonieta",
+      "incorrect_answers": ["Czar Nicolau II", "Elizabeth I", "Henrique VIII"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Qual dos seguintes países africanos teve mais sucesso em resistir à colonização?",
+      "correct_answer": "Etiópia",
+      "incorrect_answers": ["Costa do Marfim", "Congo", "Namíbia"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Como Sócrates foi executado?",
+      "correct_answer": "Veneno",
+      "incorrect_answers": ["Decapitação", "Pelotão de fuzilamento", "Crucificação"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "O que os Estados Unidos da América celebram no 4 de Julho?",
+      "correct_answer": "A assinatura da Declaração de Independência",
+      "incorrect_answers": ["O aniversário da Batalha de Gettysburg", "A travessia do Rio Delaware", "A ratificação da Constituição"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Em que ano ocorreu o desastre da usina nuclear de Chernobyl?",
+      "correct_answer": "1986",
+      "incorrect_answers": ["1991", "1975", "1998"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Em que ano terminou a Segunda Guerra Mundial?",
+      "correct_answer": "1945",
+      "incorrect_answers": ["1943", "1947", "1950"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Qual desses países NÃO pertencia às Potências Centrais durante a Primeira Guerra Mundial?",
+      "correct_answer": "Espanha",
+      "incorrect_answers": ["Áustria-Hungria", "Turquia", "Alemanha"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Em que ano ocorreu a Queda da Bolsa de valores de Nova York?",
+      "correct_answer": "1929",
+      "incorrect_answers": ["1932", "1930", "1925"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "O Império Otomano foi dissolvido após sua derrota em qual guerra?",
+      "correct_answer": "Primeira Guerra Mundial",
+      "incorrect_answers": ["Guerra da Crimeia", "Revolução Sérvia", "Segunda Guerra Balcânica"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Em qual guerra ocorreram os bombardeios atômicos de Hiroshima e Nagasaki?",
+      "correct_answer": "Segunda Guerra Mundial",
+      "incorrect_answers": ["Primeira Guerra Mundial", "Guerra Russo-Japonesa", "Primeira Guerra Sino-Japonesa"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Em que ano começou a Primeira Guerra Mundial?",
+      "correct_answer": "1914",
+      "incorrect_answers": ["1905", "1919", "1925"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Quantos navios irmãos (sister ships) o Titanic tinha?",
+      "correct_answer": "2",
+      "incorrect_answers": ["4", "3", "1"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Qual país ingressou na UE (União Europeia) em 2013?",
+      "correct_answer": "Croácia",
+      "incorrect_answers": ["Bulgária", "Eslovênia", "Turquia"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Em 1453, qual cidade importante caiu?",
+      "correct_answer": "Constantinopla",
+      "incorrect_answers": ["Roma", "Hamburgo", "Atenas"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Em qual país a Estátua da Liberdade foi construída e exportada para os Estados Unidos da América?",
+      "correct_answer": "França",
+      "incorrect_answers": ["Alemanha", "Espanha", "Inglaterra"]
+    },
+    {
+      "difficulty": "easy",
+      "category": "História",
+      "question": "Qual era o nome comumente dado às antigas rotas comerciais que conectavam o Oriente e o Ocidente da Eurásia?",
+      "correct_answer": "Rota da Seda",
+      "incorrect_answers": ["Rota das Especiarias", "Rota do Barro", "Rota do Sal"]
+    },
+    {
+      "difficulty": "medium",
+      "category": "História",
+      "question": "Joseph Smith foi o fundador de qual religião?",
+      "correct_answer": "Mormonismo",
+      "incorrect_answers": [
+        "Budismo",
+        "Cristianismo",
+        "Hinduísmo"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "História",
+      "question": "Qual evento marcou o início da Segunda Guerra Mundial?",
+      "correct_answer": "Invasão da Polônia (1939)",
+      "incorrect_answers": [
+        "Invasão da Rússia (1942)",
+        "Batalha da Grã-Bretanha (1940)",
+        "Invasão da Normandia (1944)"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "História",
+      "question": "Após sua derrota na Batalha de Waterloo, Napoleão Bonaparte foi exilado em qual ilha?",
+      "correct_answer": "Santa Helena",
+      "incorrect_answers": [
+        "Elba",
+        "Córsega",
+        "Canárias"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "História",
+      "question": "Qual Luís era conhecido como o 'Rei Sol da França'?",
+      "correct_answer": "Luís XIV",
+      "incorrect_answers": [
+        "Luís XIII",
+        "Luís XV",
+        "Luís XVI"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "História",
+      "question": "Qual presidente dos EUA participou da Conferência de Potsdam, onde os Aliados chegaram a um acordo de paz com a Alemanha?",
+      "correct_answer": "Harry S. Truman",
+      "incorrect_answers": [
+        "Dwight D. Eisenhower",
+        "Franklin D. Roosevelt",
+        "Herbert Hoover"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "História",
+      "question": "Quem assassinou o Arquiduque Francisco Ferdinando?",
+      "correct_answer": "Gavrilo Princip",
+      "incorrect_answers": [
+        "Nedeljko Čabrinović",
+        "Oskar Potiorek",
+        "Ferdinand Cohen-Blind"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "História",
+      "question": "Qual é o dispositivo mnemônico para lembrar o destino das esposas de Henrique VIII?",
+      "correct_answer": "Divorciada, Decapitada, Morreu, Divorciada, Decapitada, Sobreviveu",
+      "incorrect_answers": [
+        "Decapitada, Morreu, Divorciada, Divorciada, Decapitada, Sobreviveu",
+        "Morreu, Decapitada, Divorciada, Decapitada, Sobreviveu, Divorciada",
+        "Sobreviveu, Decapitada, Morreu, Divorciada, Divorciada, Decapitada"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "História",
+      "question": "Em que ano o famoso letreiro de Hollywood de 45 pés de altura foi erguido pela primeira vez?",
+      "correct_answer": "1923",
+      "incorrect_answers": [
+        "1903",
+        "1913",
+        "1933"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "História",
+      "question": "Qual era o nome do navio que transportava os peregrinos para a América em 1620?",
+      "correct_answer": "Mayflower",
+      "incorrect_answers": [
+        "Santa Maria",
+        "Endeavour",
+        "Beagle"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "História",
+      "question": "Qual foi o primeiro país a conceder às mulheres o direito de votar?",
+      "correct_answer": "Nova Zelândia",
+      "incorrect_answers": [
+        "Austrália",
+        "Reino Unido",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "História",
+      "question": "\"O Grande Incêndio de Londres\" ocorreu em que ano?",
+      "correct_answer": "1666",
+      "incorrect_answers": [
+        "1656",
+        "1676",
+        "1686"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "História",
+      "question": "Quem liderou a França durante o \"Reino do Terror\"?",
+      "correct_answer": "Maximilien Robespierre",
+      "incorrect_answers": [
+        "Napoleão Bonaparte",
+        "Jean-Paul Marat",
+        "Luís XVI"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "História",
+      "question": "Qual foi o nome do tratado que encerrou a Primeira Guerra Mundial?",
+      "correct_answer": "Tratado de Versalhes",
+      "incorrect_answers": [
+        "Tratado de Paris",
+        "Tratado de Tordesilhas",
+        "Tratado de Utrecht"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "História",
+      "question": "Quem foi o líder militar que comandou o golpe de Estado que instaurou a República no Brasil em 1889?",
+      "correct_answer": "Marechal Deodoro da Fonseca",
+      "incorrect_answers": [
+        "Duque de Caxias",
+        "Floriano Peixoto",
+        "Dom Pedro II"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "História",
+      "question": "Como ficou conhecido o período ditatorial governado por Getúlio Vargas entre 1937 e 1945 no Brasil?",
+      "correct_answer": "Estado Novo",
+      "incorrect_answers": [
+        "República Velha",
+        "Milagre Econômico",
+        "República da Espada"
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "História",
+      "question": "Qual desses cargos o astrônomo e físico Isaac Newton não ocupou?",
+      "correct_answer": "Agrimensor da Cidade de Londres",
+      "incorrect_answers": [
+        "Professor de Matemática",
+        "Diretor da Casa da Moeda Real",
+        "Membro do Parlamento"
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "História",
+      "question": "Quando começou a Revolução Francesa?",
+      "correct_answer": "1789",
+      "incorrect_answers": [
+        "1823",
+        "1756",
+        "1799"
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "História",
+      "question": "A Constituição do Império do Brasil de 1824, outorgada por D. Pedro I, instituiu quatro poderes. Qual era a principal função do Poder Moderador, exclusivo do Imperador?",
+      "correct_answer": "Assegurar o equilíbrio entre os demais poderes, conferindo ao Imperador a autoridade para nomear ministros, dissolver a Câmara dos Deputados e vetar leis.",
+      "incorrect_answers": [
+        "Julgar os crimes comuns e de responsabilidade dos membros da família imperial e da alta nobreza.",
+        "Elaborar as leis orçamentárias e aprovar a cobrança de novos impostos nas províncias.",
+        "Comandar as Forças Armadas exclusivamente em tempos de guerra externa, sem interferir na política interna."
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "História",
+      "question": "Em qual famoso evento, realizado em 13 de março de 1964, o presidente João Goulart assinou decretos encampando refinarias de petróleo e desapropriando terras, anunciando as 'Reformas de Base'?",
+      "correct_answer": "Comício da Central do Brasil",
+      "incorrect_answers": [
+        "Marcha da Família com Deus pela Liberdade",
+        "Passeata dos Cem Mil",
+        "Comício das Diretas Já"
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "História",
+      "question": "Promulgada semanas após a Lei Eusébio de Queirós em 1850, a Lei de Terras no Brasil determinou que:",
+      "correct_answer": "As terras devolutas só poderiam ser adquiridas por meio de compra.",
+      "incorrect_answers": [
+        "As terras produtivas seriam desapropriadas para reforma agrária.",
+        "As propriedades rurais da Igreja Católica seriam confiscadas pelo Estado.",
+        "O direito de posse (usucapião) seria a única forma de adquirir propriedades."
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "História",
+      "question": "Qual era o nome da organização política de fachada, fechada pelo governo Vargas, que serviu de base estrutural e ideológica para a Intentona Comunista de 1935?",
+      "correct_answer": "Aliança Nacional Libertadora (ANL)",
+      "incorrect_answers": [
+        "Ação Integralista Brasileira (AIB)",
+        "Partido Comunista Brasileiro (PCB)",
+        "Comando de Libertação Nacional (Colina)"
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "História",
+      "question": "A Guerra dos Mascates (1710-1711) foi um conflito ocorrido na capitania de Pernambuco que evidenciou a disputa política e econômica entre quais grupos?",
+      "correct_answer": "Senhores de engenho de Olinda e comerciantes portugueses do Recife.",
+      "incorrect_answers": [
+        "Mineradores de Vila Rica e cobradores de impostos da Coroa.",
+        "Fazendeiros paulistas e jesuítas espanhóis.",
+        "Produtores de charque gaúchos e o governo regencial."
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "História",
+      "question": "O Convênio de Taubaté, assinado em 1906, foi um acordo entre os governadores de São Paulo, Minas Gerais e Rio de Janeiro com qual objetivo principal?",
+      "correct_answer": "Estabelecer uma política de valorização do café, com o governo assumindo o compromisso de comprar os excedentes da produção.",
+      "incorrect_answers": [
+        "Criar uma aliança militar para depor o presidente da República da época.",
+        "Incentivar a imigração europeia subsidiada exclusivamente para o trabalho nas lavouras.",
+        "Financiar a construção de malhas ferroviárias ligando o Sudeste ao Nordeste do país."
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "História",
+      "question": "Divulgado pelas Forças Armadas e pelo governo brasileiro no final de 1937, o chamado 'Plano Cohen' foi um documento falso cuja principal utilidade política e histórica foi:",
+      "correct_answer": "Servir de pretexto de uma iminente revolução comunista para que Getúlio Vargas cancelasse as eleições, fechasse o Congresso e instaurasse a ditadura do Estado Novo.",
+      "incorrect_answers": [
+        "Comprovar o financiamento soviético ao levante da Intentona Comunista, fornecendo a base legal para a prisão de Luís Carlos Prestes.",
+        "Legitimar a deposição de Vargas pelos generais em 1945, sob a acusação de que o presidente pretendia aliar o Brasil às potências do Eixo.",
+        "Denunciar uma conspiração oligárquica paulista para separar o estado de São Paulo do resto da federação logo após a Revolução Constitucionalista."
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "História",
+      "question": "Diferente da Inconfidência Mineira, a Conjuração Baiana (ou Revolta dos Alfaiates) de 1798 destacou-se por ter um caráter mais popular. Qual era uma das principais reivindicações sociais desse movimento que não estava presente nos planos dos inconfidentes mineiros?",
+      "correct_answer": "A abolição da escravidão e o fim do preconceito racial.",
+      "incorrect_answers": [
+        "A manutenção dos privilégios da nobreza local e do clero regular.",
+        "A criação de uma monarquia constitucional liderada por um príncipe português.",
+        "A expulsão exclusiva dos comerciantes estrangeiros da capitania."
+      ]
+    }
+  ]
 }
+
+
+    
+    

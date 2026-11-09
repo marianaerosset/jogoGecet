@@ -1,4 +1,557 @@
 {
-    "1": "Qual é a capital do Japão?",
-    "2": "Qual é a maior cidade do Brasil?"
+  "response_code": 0,
+  "results": [
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "A fronteira terrestre mais longa do mundo é compartilhada por quais duas nações?",
+      "correct_answer": "Canadá e Estados Unidos",
+      "incorrect_answers": [
+        "Chile e Argentina",
+        "Rússia e China",
+        "Índia e Paquistão"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Qual continente é considerado o maior e mais populoso do mundo?",
+      "correct_answer": "Ásia",
+      "incorrect_answers": [
+        "África",
+        "Europa",
+        "América do Norte"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Qual cidade é a capital dos Estados Unidos da América?",
+      "correct_answer": "Washington D.C.",
+      "incorrect_answers": [
+        "Seattle",
+        "Albany",
+        "Los Angeles"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "A Cidade do Vaticano, o menor país do mundo, é totalmente cercada por qual país?",
+      "correct_answer": "Itália",
+      "incorrect_answers": [
+        "França",
+        "Espanha",
+        "Alemanha"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Com quantos países os Estados Unidos fazem fronteira terrestre?",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "1",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Qual é o idioma oficial de Liechtenstein?",
+      "correct_answer": "Alemão",
+      "incorrect_answers": [
+        "Francês",
+        "Inglês",
+        "Italiano"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "O que é o Laos?",
+      "correct_answer": "País",
+      "incorrect_answers": [
+        "Região",
+        "Rio",
+        "Cidade"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "A Guiana fica em qual continente?",
+      "correct_answer": "América do Sul",
+      "incorrect_answers": [
+        "África",
+        "América do Norte",
+        "Ásia"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Onde ficava a antiga cidade de Pompeia?",
+      "correct_answer": "Itália",
+      "incorrect_answers": [
+        "África Oriental",
+        "América do Sul",
+        "Pompilanus"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Qual país é o segundo maior do mundo em área?",
+      "correct_answer": "Canadá",
+      "incorrect_answers": [
+        "Rússia",
+        "China",
+        "Estados Unidos da América"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Com qual país a Áustria não faz fronteira?",
+      "correct_answer": "França",
+      "incorrect_answers": [
+        "Eslovênia",
+        "Suíça",
+        "Eslováquia"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Em qual continente fica a cordilheira dos Andes?",
+      "correct_answer": "América do Sul",
+      "incorrect_answers": [
+        "Europa",
+        "Ásia",
+        "África"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Qual é a cor do círculo na bandeira do Japão?",
+      "correct_answer": "Vermelho",
+      "incorrect_answers": [
+        "Branco",
+        "Amarelo",
+        "Preto"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Qual é a capital da Espanha?",
+      "correct_answer": "Madrid",
+      "incorrect_answers": [
+        "Barcelona",
+        "Sevilha",
+        "Toledo"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Qual é a capital da Jamaica?",
+      "correct_answer": "Kingston",
+      "incorrect_answers": [
+        "San Juan",
+        "Porto Príncipe",
+        "Bridgetown"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Qual país NÃO fazia parte da União Soviética?",
+      "correct_answer": "Romênia",
+      "incorrect_answers": [
+        "Turcomenistão",
+        "Bielorrússia",
+        "Tajiquistão"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Qual é o maior deserto quente do mundo?",
+      "correct_answer": "Saara",
+      "incorrect_answers": [
+        "Gobi",
+        "Mojave",
+        "Kalahari"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Qual nome era historicamente usado para a cidade turca atualmente conhecida como Istambul?",
+      "correct_answer": "Constantinopla",
+      "incorrect_answers": [
+        "Hüdavendigar",
+        "Söğüt",
+        "Adrianópolis"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Qual é o idioma oficial da Costa Rica?",
+      "correct_answer": "Espanhol",
+      "incorrect_answers": [
+        "Inglês",
+        "Português",
+        "Crioulo"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Qual das seguintes características geográficas é um recife de coral, ilha ou série de ilhotas em forma de anel?",
+      "correct_answer": "Atol",
+      "incorrect_answers": [
+        "Península",
+        "Istmo",
+        "Delta"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Qual é o maior país do mundo?",
+      "correct_answer": "Rússia",
+      "incorrect_answers": [
+        "Canadá",
+        "China",
+        "Estados Unidos"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Em qual cidade indiana o Taj Mahal pode ser encontrado?",
+      "correct_answer": "Agra",
+      "incorrect_answers": [
+        "Mumbai",
+        "Faridabad",
+        "Thane"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Qual país do Reino Unido apresenta um dragão em sua bandeira?",
+      "correct_answer": "País de Gales",
+      "incorrect_answers": [
+        "Inglaterra",
+        "Irlanda do Norte",
+        "Escócia"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Aproximadamente quantos países existem no mundo?",
+      "correct_answer": "200",
+      "incorrect_answers": [
+        "100",
+        "300",
+        "500"
+      ]
+    },
+    {
+      "difficulty": "easy",
+      "category": "Geografia",
+      "question": "Quantas estrelas aparecem na bandeira da Nova Zelândia?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "5",
+        "2",
+        "0"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "Geografia",
+      "question": "Qual país ocupa o primeiro lugar em número de vulcões historicamente ativos?",
+      "correct_answer": "Indonésia",
+      "incorrect_answers": [
+        "Japão",
+        "EUA",
+        "Índia"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "Geografia",
+      "question": "Onde fica a área comumente conhecida como Triângulo das Bermudas?",
+      "correct_answer": "Oceano Atlântico Norte, entre a Flórida e Porto Rico",
+      "incorrect_answers": [
+        "Oceano Pacífico Norte, entre o Japão e os EUA",
+        "No Mar do Caribe",
+        "Oceano Pacífico Sul, muito além do Chile"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "Geografia",
+      "question": "As seguintes províncias espanholas estão localizadas na região norte da Espanha, EXCETO:",
+      "correct_answer": "Múrcia",
+      "incorrect_answers": [
+        "Astúrias",
+        "Navarra",
+        "Leão"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "Geografia",
+      "question": "Qual é a maneira correta de escrever a capital da Hungria?",
+      "correct_answer": "Budapeste",
+      "incorrect_answers": [
+        "Boodapeste",
+        "Bhudapeste",
+        "Budapast"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "Geografia",
+      "question": "Qual país tem três cidades capitais?",
+      "correct_answer": "África do Sul",
+      "incorrect_answers": [
+        "Somália",
+        "China",
+        "Reino Unido"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "Geografia",
+      "question": "Qual cordilheira delineia a fronteira entre a Espanha e a França?",
+      "correct_answer": "Pireneus",
+      "incorrect_answers": [
+        "Alpes",
+        "Cárpatos",
+        "Urais"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "Geografia",
+      "question": "O distrito japonês de Akihabara também é conhecido por qual apelido?",
+      "correct_answer": "Cidade Elétrica (Electric Town)",
+      "incorrect_answers": [
+        "Rio do Moon Walk (Moon Walk River)",
+        "Central Otaku (Otaku Central)",
+        "Olhos Grandes (Big Eyes)"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "Geografia",
+      "question": "Qual dos seguintes NÃO é um país megadiverso - um país que abriga um alto número de espécies endêmicas da Terra?",
+      "correct_answer": "Tailândia",
+      "incorrect_answers": [
+        "Peru",
+        "México",
+        "África do Sul"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "Geografia",
+      "question": "Qual país europeu não faz parte da União Europeia?",
+      "correct_answer": "Noruega",
+      "incorrect_answers": [
+        "Lituânia",
+        "Irlanda",
+        "Chéquia (República Tcheca)"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "Geografia",
+      "question": "Gâmbia é uma nação encontrada em qual continente?",
+      "correct_answer": "África",
+      "incorrect_answers": [
+        "Ásia",
+        "América do Sul",
+        "Europa"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "Geografia",
+      "question": "Qual foi a cidade mais populosa das Américas em 2015?",
+      "correct_answer": "São Paulo",
+      "incorrect_answers": [
+        "Nova York",
+        "Cidade do México",
+        "Los Angeles"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "Geografia",
+      "question": "Qual país africano tem o português como idioma oficial?",
+      "correct_answer": "Moçambique",
+      "incorrect_answers": [
+        "Botsuana",
+        "Gabão",
+        "Togo"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "Geografia",
+      "question": "A sede da Organização Mundial da Saúde está localizada em qual país europeu?",
+      "correct_answer": "Suíça",
+      "incorrect_answers": [
+        "Reino Unido",
+        "França",
+        "Bélgica"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "Geografia",
+      "question": "Qual destes países NÃO está localizado na África?",
+      "correct_answer": "Suriname",
+      "incorrect_answers": [
+        "Burkina Faso",
+        "Moçambique",
+        "Argélia"
+      ]
+    },
+    {
+      "difficulty": "medium",
+      "category": "Geografia",
+      "question": "Quantos fusos horários a Rússia tem?",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "6",
+        "24",
+        "16"
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "Geografia",
+      "question": "Qual destas NÃO é uma placa tectônica real?",
+      "correct_answer": "Placa Atlântica",
+      "incorrect_answers": [
+        "Placa Norte-Americana",
+        "Placa Eurasiática",
+        "Placa de Nazca"
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "Geografia",
+      "question": "Qual dos seguintes países sem saída para o mar está inteiramente contido dentro de outro país?",
+      "correct_answer": "Lesoto",
+      "incorrect_answers": [
+        "Burkina Faso",
+        "Mongólia",
+        "Luxemburgo"
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "Geografia",
+      "question": "Com qual país a França compartilha sua maior fronteira terrestre?",
+      "correct_answer": "Brasil",
+      "incorrect_answers": [
+        "Alemanha",
+        "Espanha",
+        "Canadá"
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "Geografia",
+      "question": "Qual destes países NÃO faz parte do continente asiático?",
+      "correct_answer": "Suriname",
+      "incorrect_answers": [
+        "Geórgia",
+        "Rússia",
+        "Cingapura"
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "Geografia",
+      "question": "Qual destas cidades NÃO fica na Inglaterra?",
+      "correct_answer": "Edimburgo",
+      "incorrect_answers": [
+        "Oxford",
+        "Manchester",
+        "Southampton"
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "Geografia",
+      "question": "Qual é o único país do mundo cujo território é cortado simultaneamente pela Linha do Equador e pelo Trópico de Capricórnio?",
+      "correct_answer": "Brasil",
+      "incorrect_answers": [
+        "Colômbia",
+        "Indonésia",
+        "República Democrática do Congo"
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "Geografia",
+      "question": "Qual das seguintes ilhas caribenhas NÃO faz parte da região geográfica conhecida como Grandes Antilhas?",
+      "correct_answer": "Trinidad e Tobago",
+      "incorrect_answers": [
+        "Cuba",
+        "Hispaniola",
+        "Jamaica"
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "Geografia",
+      "question": "O rio Amazonas e o Nilo atravessam várias nações. Qual é o rio mais longo do mundo que flui inteiramente dentro das fronteiras de um único país?",
+      "correct_answer": "Rio Yangtzé (China)",
+      "incorrect_answers": [
+        "Rio Mississippi (EUA)",
+        "Rio Volga (Rússia)",
+        "Rio Amarelo (China)"
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "Geografia",
+      "question": "Qual é o país mais populoso do mundo que não tem saída para o mar?",
+      "correct_answer": "Etiópia",
+      "incorrect_answers": [
+        "Afeganistão",
+        "Uzbequistão",
+        "Cazaquistão"
+      ]
+    },
+    {
+      "difficulty": "hard",
+      "category": "Geografia",
+      "question": "O Estreito de Cook, uma via navegável famosa por suas águas agitadas e correntes perigosas, separa quais duas grandes massas de terra?",
+      "correct_answer": "A Ilha Norte e a Ilha Sul da Nova Zelândia",
+      "incorrect_answers": [
+        "A Tasmânia e a Austrália continental",
+        "A Ilha de Sumatra e a Península da Malásia",
+        "A Ilha de Honshu e Hokkaido no Japão"
+      ]
+    }
+  ]
 }
+
+    
