@@ -1,4 +1,218 @@
-{
-    "1": "Quem pintou a Mona Lisa?",
-    "2": "Onde fica o Louvre?"
-}
+[
+  {
+    "id": 1,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Quem pintou A Noite Estrelada?",
+    "correct_answer": "Vincent van Gogh",
+    "incorrect_answers": ["Pablo Picasso", "Leonardo da Vinci", "Michelangelo"]
+  },
+  {
+    "id": 2,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Quem pintou a Mona Lisa?",
+    "correct_answer": "Leonardo da Vinci",
+    "incorrect_answers": ["Pablo Picasso", "Claude Monet", "Vincent van Gogh"]
+  },
+  {
+    "id": 3,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual é outro nome para La Gioconda / La Joconde?",
+    "correct_answer": "A Mona Lisa",
+    "incorrect_answers": ["Moça com Brinco de Pérola", "A Noite Estrelada", "Girassóis"]
+  },
+  {
+    "id": 4,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual artista pintou o mural do final do século XV 'A Última Ceia'?",
+    "correct_answer": "Leonardo da Vinci",
+    "incorrect_answers": ["Piero della Francesca", "Paolo Uccello", "Luca Pacioli"]
+  },
+  {
+    "id": 5,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Quem pintou a Capela Sistina?",
+    "correct_answer": "Michelangelo",
+    "incorrect_answers": ["Leonardo da Vinci", "Pablo Picasso", "Rafael"]
+  },
+  {
+    "id": 6,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Quem pintou 'Cisnes Refletindo Elefantes', 'Sono' e 'A Persistência da Memória'?",
+    "correct_answer": "Salvador Dalí",
+    "incorrect_answers": ["Jackson Pollock", "Vincent van Gogh", "Edgar Degas"]
+  },
+  {
+    "id": 7,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Quem esculpiu a estátua de Davi?",
+    "correct_answer": "Michelangelo",
+    "incorrect_answers": ["Gian Lorenzo Bernini", "Auguste Rodin", "Donatello"]
+  },
+  {
+    "id": 8,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual cor é produzida ao misturar preto e branco?",
+    "correct_answer": "Cinza",
+    "incorrect_answers": ["Preto", "Marrom", "Branco"]
+  },
+  {
+    "id": 9,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual destas pinturas NÃO foi feita por Vincent van Gogh?",
+    "correct_answer": "A Nona Onda",
+    "incorrect_answers": ["Terraço do Café à Noite", "O Quarto em Arles", "A Noite Estrelada"]
+  },
+  {
+    "id": 10,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual é o nome da arte japonesa de dobrar papel em formas e figuras decorativas?",
+    "correct_answer": "Origami",
+    "incorrect_answers": ["Sumi-e", "Ukiyo-e", "Haiku"]
+  },
+  {
+    "id": 11,
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual era a nacionalidade do pintor surrealista Salvador Dalí?",
+    "correct_answer": "Espanhola",
+    "incorrect_answers": ["Italiana", "Francesa", "Portuguesa"]
+  },
+  {
+    "id": 12,
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual destas pinturas Johannes Vermeer NÃO pintou?",
+    "correct_answer": "Bacchus",
+    "incorrect_answers": ["Moça com Brinco de Pérola", "A Leiteira", "A Rendeira"]
+  },
+  {
+    "id": 13,
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual destes é o nome de uma marca famosa de marcadores?",
+    "correct_answer": "Copic",
+    "incorrect_answers": ["Dopix", "Cofix", "Marx"]
+  },
+  {
+    "id": 14,
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Quem pintou 'O Grito'?",
+    "correct_answer": "Edvard Munch",
+    "incorrect_answers": ["Vincent van Gogh", "Pablo Picasso", "Henri Matisse"]
+  },
+  {
+    "id": 15,
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual era a nacionalidade do famoso artista Van Gogh?",
+    "correct_answer": "Holandesa",
+    "incorrect_answers": ["Francesa", "Russa", "Polonesa"]
+  },
+  {
+    "id": 16,
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Quem pintou o quadro 'Nighthawks'?",
+    "correct_answer": "Edward Hopper",
+    "incorrect_answers": ["Johannes Vermeer", "Vincent van Gogh", "Salvador Dalí"]
+  },
+  {
+    "id": 17,
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual movimento artístico Pablo Picasso ficou conhecido por cofundar?",
+    "correct_answer": "Cubismo",
+    "incorrect_answers": ["Futurismo", "Expressionismo", "Impressionismo"]
+  },
+  {
+    "id": 18,
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "O pintor Piet Mondrian (1872 - 1944) fez parte de qual movimento?",
+    "correct_answer": "Neoplasticismo",
+    "incorrect_answers": ["Precisionismo", "Cubismo", "Impressionismo"]
+  },
+  {
+    "id": 19,
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Arte",
+    "question": "Qual é a obra de ficção mais antiga conhecida do mundo?",
+    "correct_answer": "Epopeia de Gilgamesh",
+    "incorrect_answers": ["Papiro de Ani", "Código de Hamurábi", "Pedra de Roseta"]
+  },
+  {
+    "id": 20,
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Quem desenhou o logotipo do Chupa Chups?",
+    "correct_answer": "Salvador Dalí",
+    "incorrect_answers": ["Pablo Picasso", "Andy Warhol", "Vincent van Gogh"]
+  },
+  {
+    "id": 21,
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Quando foi concluída a pintura 'A Persistência da Memória', de Salvador Dalí?",
+    "correct_answer": "1931",
+    "incorrect_answers": ["1932", "1929", "1934"]
+  },
+  {
+    "id": 22,
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "Qual era a nacionalidade do famoso artista Pablo Picasso?",
+    "correct_answer": "Espanhola",
+    "incorrect_answers": ["Francesa", "Italiana", "Alemã"]
+  },
+  {
+    "id": 23,
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Arte",
+    "question": "A pintura 'A Noite Estrelada', de Vincent van Gogh, fez parte de qual movimento artístico?",
+    "correct_answer": "Pós-Impressionismo",
+    "incorrect_answers": ["Romantismo", "Neoclassicismo", "Impressionismo"]
+  },
+  {
+    "id": 24,
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Arte",
+    "question": "Qual destas cores NÃO aparece em 'Broadway Boogie-Woogie', de Mondrian?",
+    "correct_answer": "Verde",
+    "incorrect_answers": ["Azul", "Amarelo", "Vermelho"]
+  }
+]
